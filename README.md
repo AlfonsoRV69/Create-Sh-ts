@@ -9,6 +9,8 @@
 1. Go to the releases page (or click in the image above) and download it
 2. import it to your MC Launcher, for example Prism Launcher
 
+# [Tutorials](https://github.com/AlfonsoRV69/Create-Sh-ts/tree/main/tutorials) <- Click to see them
+
 # Read please  
 ### if your launcher says to update the mods, DON'T UPDATE THEM
 ### ⚠️ DON'T PUT ONLY THE MODS IN THE MODS FOLDER, IMPORT ALL THE MODPACK ⚠️
