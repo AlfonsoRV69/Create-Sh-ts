@@ -1,6 +1,11 @@
-# Curseforge
-<video src="path/to/video.mp4" width="320" height="240" controls></video>
-# Modrinth
-<video src="path/to/video.mp4" width="320" height="240" controls></video>
-# Prism Launcher
-<video src="path/to/video.mp4" width="320" height="240" controls></video>
+# <img src="https://github.com/AlfonsoRV69/Create-Sh-ts/blob/main/images/curseforge-pxl.png" width="50"> </img> Curseforge 
+
+https://github.com/user-attachments/assets/bb99142e-08c9-49b1-946a-b171fc5c7e30
+
+# <img src="https://github.com/AlfonsoRV69/Create-Sh-ts/blob/main/images/modrinth-pixel.png" width="50"> </img> Modrinth
+
+https://github.com/user-attachments/assets/896ad311-54af-4740-997b-664a9747b034
+
+# <img src="https://github.com/AlfonsoRV69/Create-Sh-ts/blob/main/images/Prism_Launcher_logo.svg.webp" width="50"> Prism Launcher
+
+https://github.com/user-attachments/assets/12a8e0f3-adc1-470c-b999-34c1b86b6b1a
