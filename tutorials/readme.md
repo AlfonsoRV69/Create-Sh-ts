@@ -1,6 +1,6 @@
 # <img src="https://github.com/AlfonsoRV69/Create-Sh-ts/blob/main/images/curseforge-pxl.png" width="50"> </img> Curseforge 
 
-https://github.com/user-attachments/assets/bb99142e-08c9-49b1-946a-b171fc5c7e30
+https://github.com/user-attachments/assets/9cae05b7-ae77-4e29-93ae-3a8894cfb959
 
 # <img src="https://github.com/AlfonsoRV69/Create-Sh-ts/blob/main/images/modrinth-pixel.png" width="50"> </img> Modrinth
 
